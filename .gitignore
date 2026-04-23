@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+.vscode/
+chrome-win64/
+*.html
